@@ -36,5 +36,6 @@ This app can be used to validate data before:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/multiomics-data-validator.git
+git clone https://github.com/katiamerabet/multiomics-data-validator.git
 cd multiomics-data-validator
+
