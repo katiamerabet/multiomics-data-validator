@@ -1,0 +1,26 @@
+body {
+    background-color: #1561d1;
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1 {
+    color: #3366cc;
+}
+
+.stExpanderHeader {
+    font-weight: bold;
+    font-size: 18px;
+    color: #4CAF50;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.stFileUploader {
+    margin-bottom: 20px;
+}

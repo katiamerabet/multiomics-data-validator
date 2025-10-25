@@ -1,0 +1,21 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+meta_data_env/
+
+# System files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large or temporary data
+*.csv
+*.xlsx
+*.tsv
+*.json
