@@ -15,11 +15,7 @@ This tool automatically checks your data for:
 
 ##  Motivation
 
-This project was born from my interest in **bioinformatics data quality and reproducibility**.  
-While exploring multi-omics analyses, I realized how much time researchers spend manually checking  
-datasets for missing values, outliers, and inconsistencies before analysis.  
-I developed this tool to **automate and standardize data validation**, helping researchers ensure  
-their data is ready for integration and downstream modeling.
+This project was developed as part of my ongoing interest in the intersection of AI, data science, and bioinformatics, with the goal of improving the quality and reproducibility of biological research data. By building a user-friendly validation tool with Streamlit, I wanted to facilitate better metadata integrity, enabling researchers to trust and analyze their datasets more efficiently. This project also reflects my broader motivation to apply machine learning and data-driven methods to address real challenges in life sciences and research environments.
 
 ---
 
