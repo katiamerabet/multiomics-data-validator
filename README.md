@@ -1,3 +1,4 @@
+(meta_data_env) katiamerabet@katiamerabet-latitudee7450:~/Downloads/Meta_data_validation_tool$ cat README.md
 # Multi-Omics Data Validator
 
 An interactive **Streamlit web app** that validates the **completeness, consistency, and structure** of multi-omics datasets (genomics, proteomics, metabolomics, etc.).
@@ -38,4 +39,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/katiamerabet/multiomics-data-validator.git
 cd multiomics-data-validator
-
