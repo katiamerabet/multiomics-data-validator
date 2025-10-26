@@ -13,6 +13,16 @@ This tool automatically checks your data for:
 
 ---
 
+##  Motivation
+
+This project was born from my interest in **bioinformatics data quality and reproducibility**.  
+While exploring multi-omics analyses, I realized how much time researchers spend manually checking  
+datasets for missing values, outliers, and inconsistencies before analysis.  
+I developed this tool to **automate and standardize data validation**, helping researchers ensure  
+their data is ready for integration and downstream modeling.
+
+---
+
 ##  Features
 
 - Upload your dataset in `.csv`, `.tsv`, or `.xlsx` format.  
@@ -37,8 +47,10 @@ This app can be used to validate data before:
 
 Here are some screenshots:
 
-![Screenshot 1](assets/Screenshot_20251026_111254.png)
-![Screenshot 2](assets/Screenshot_20251026_111543.png)
+<p align="center">
+  <img src="assets/Screenshot_20251026_111254.png" width="45%"/>
+  <img src="assets/Screenshot_20251026_111543.png" width="45%"/>
+</p>
 ---
 
 ##  Installation
