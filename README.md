@@ -33,6 +33,14 @@ This app can be used to validate data before:
 
 ---
 
+# Screenshots
+
+Here are some screenshots:
+
+![Screenshot 1](assets/Screenshot_20251026_111254.png)
+![Screenshot 2](assets/Screenshot_20251026_111543.png)
+---
+
 ##  Installation
 
 Clone the repository:
